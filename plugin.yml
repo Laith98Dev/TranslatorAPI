@@ -1,0 +1,5 @@
+name: TranslatorAPI
+api: [4.0.0]
+version: 1.0.0
+main: Laith98Dev\TranslatorAPI\Translator
+author: Laith98Dev
